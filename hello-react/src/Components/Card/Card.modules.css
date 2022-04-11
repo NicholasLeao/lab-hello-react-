@@ -1,0 +1,13 @@
+.card {
+  width: 200px;
+  height: 320px;
+  padding: 10px;
+}
+.card h2 {
+  margin-bottom: 15px;
+  color: #212737;
+}
+.card img {
+  align-self: center;
+  width: auto;
+}
